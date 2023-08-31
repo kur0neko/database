@@ -1,0 +1,43 @@
+Database
+Constraints on Relationship Type
+one to one (1:1) --> a business might decide to assign one office 
+One to many (1:N) or many to  one (N:1) (each customer can have many sales)
+Many to Many (M:N) (many customers can have many orders, or many customers can have many invoices)
+
+Relationship of Higher Degree
+-Relationship types of degree 2 are called binary
+-Relationship types of degree 3 are called ternary and of degree n are called n-ary
+-In general, an n-ary relationship is not equivalent to n binary relationships
+
+Same type of relationship can represented in Multiples way. 
+
+Constraints are harder to specify for higher-
+degree relationships (n > 2) than for binary
+relationships.
+
+There are 4 types of degrees of relationship based on the involved entities
+
+    Unary relationship- also called recursive, is one in which a relationship exists between occurrences of the same entity set.
+    Binary relationship-In a Binary relationship, there are two types of entity associates
+. So, we can say that a Binary relationship exists when there are two types of entity and we call them a degree of relationship is 2.
+ Or in other words, in a relation when two entity sets are participating then such type of relationship is known as a binary relationship.
+ This is the most used relationship and one can easily be converted into a relational.
+
+
+Chapter Summary
+◼ ER Model Concepts: Entities, attributes,
+relationships
+◼ Constraints in the ER model
+◼ Using ER in step-by-step mode conceptual
+schema design for the COMPANY database
+◼ ER Diagrams - Notation
+◼ Alternative Notations – UML class diagrams,
+others
+◼ Binary Relationship types and those of higher degree.
+
+
+
+
+
+
+
